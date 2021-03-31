@@ -1,6 +1,6 @@
 provider "google" {
-  credentials = file("terraformpractical-42041d202ffe.json")
-  project     = "terraformpractical"
+  //credentials = file("terraformpractical-42041d202ffe.json")
+  project = "terraformpractical"
   //region      = "us-west1"
 
 }
